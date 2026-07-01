@@ -46,10 +46,10 @@ var I18N_DICT = {
     "about.loading": "Memuat deskripsi bot...",
     "about.feature.heading": "Fitur Unggulan",
     "about.faq.heading": "Pertanyaan Umum",
-    "pay.title": "Pembayaran",
+    "pay.title": "Sewa Bot",
     "pay.desc": "Pilih paket sesuai kebutuhanmu, lalu selesaikan pembayaran melalui metode yang tersedia.",
     "pay.button": "Bayar",
-    "pay.modal.title": "Pilih Metode Pembayaran",
+    "pay.modal.title": "Pilih Metode Sewa Bot",
     "pay.modal.title.prefix": "Bayar: ",
     "pay.dana.name": "Dana",
     "pay.dana.desc": "Transfer ke nomor Dana",
@@ -77,7 +77,7 @@ var I18N_DICT = {
     "title.index": "NEOXR AI - WhatsApp Bot Assistant",
     "title.tentang": "Tentang - NEOXR AI",
     "title.owner": "Owner - NEOXR AI",
-    "title.pembayaran": "Pembayaran - NEOXR AI"
+    "title.pembayaran": "Sewa Bot - NEOXR AI"
   },
   en: {
     "nav.group.main": "Main",
@@ -108,7 +108,7 @@ var I18N_DICT = {
     "about.loading": "Loading bot description...",
     "about.feature.heading": "Key Features",
     "about.faq.heading": "Frequently Asked Questions",
-    "pay.title": "Payment",
+    "pay.title": "Rent Bot",
     "pay.desc": "Choose a plan that fits your needs, then complete payment using one of the available methods.",
     "pay.button": "Pay",
     "pay.modal.title": "Choose a Payment Method",
@@ -139,7 +139,7 @@ var I18N_DICT = {
     "title.index": "NEOXR AI - WhatsApp Bot Assistant",
     "title.tentang": "About - NEOXR AI",
     "title.owner": "Owner - NEOXR AI",
-    "title.pembayaran": "Payment - NEOXR AI"
+    "title.pembayaran": "Rent Bot - NEOXR AI"
   }
 };
 
